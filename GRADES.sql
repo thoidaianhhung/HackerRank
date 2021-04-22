@@ -1,0 +1,6 @@
+CREATE TABLE GRADES (
+	Grade INTEGER NOT NULL,
+	Min_Mark INTEGER,
+	Max_Mark INTEGER,
+	PRIMARY KEY (Grade)
+);

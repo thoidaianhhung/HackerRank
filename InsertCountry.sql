@@ -1,0 +1,2 @@
+INSERT INTO COUNTRY VALUES ('ABW', 'Aruba', 'North America', 'Caribbean', '193', NULL,
+'103000', '78.4', '828', '793.0', 'Aruba', 'Nonmetropolitan Territory of The Netherlands',' Beatrix', '129','AW');
